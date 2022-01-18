@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rpiepernx
 - 👀 I’m interested in devsecops
-- 🌱 I’m currently learning Nexport
+- 🌱 I’m currently learning Azure
 - 💞️ I’m looking to collaborate on devsecops
 - 📫 How to reach me @RPieperNexient
 
